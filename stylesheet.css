@@ -1,0 +1,7 @@
+@font-face {
+font-family: "CustomFont";
+src: url("https://rdc5150.github.io/css/fonts/CustomFont.eot");
+src: url("https://rdc5150.github.io/css/fonts/CustomFont.woff") format("woff"),
+url("https://rdc5150.github.io/css/fonts/CustomFont.otf") format("opentype"),
+url("https://rdc5150.github.io/css/fonts/CustomFont.svg#filename") format("svg");
+}
